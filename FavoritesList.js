@@ -1,4 +1,4 @@
-FavoritesList.js
+
 import React, { useState, useEffect } from 'react';
 import { getFavorites, saveFavorites } from '../utils/favorites';
 import { MovieCard } from './MovieCard'; // Используем ту же карточку фильма
